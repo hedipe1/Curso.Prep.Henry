@@ -1,0 +1,12 @@
+body{
+    background-color: #719fb6;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+h1,h2{
+    color: blue;
+}

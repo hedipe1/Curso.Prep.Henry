@@ -1,0 +1,34 @@
+body{
+
+        background-image: url("./fondo.jpg");
+        background-size: cover;
+        
+}
+    
+.divClass{
+    text-align: center;
+}
+
+h1{
+    color: #0004ff;
+}
+
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: auto; 
+    background-color: greenyellow;
+    padding: 50px;
+    border: 10px solid blue;
+    display: flex;
+    justify-content: center;
+    
+}
+    
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    
+}
